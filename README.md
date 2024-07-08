@@ -1,4 +1,4 @@
-## 🔧 What I Can Do - My stats for 2024 [![wakatime](https://wakatime.com/badge/user/018b0f86-689e-4d32-984d-dc93cfb6e980.svg)](https://wakatime.com/@018b0f86-689e-4d32-984d-dc93cfb6e980)
+## 🔧 Journey till now (2024 so far) [![wakatime](https://wakatime.com/badge/user/018b0f86-689e-4d32-984d-dc93cfb6e980.svg)](https://wakatime.com/@018b0f86-689e-4d32-984d-dc93cfb6e980)
 
 - **🖥️ Programming languages:** Java, SQL, Python, PHP.
 - **🧰 Tools:** Git, Linux, Github.
