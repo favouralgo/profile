@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Favour-Madubuko/count.svg)
 
-[![GitHub Favour-Madubuko](https://img.shields.io/github/followers/Favour-Madubuko?label=follow&style=social)](https://github.com/Favour-Madubuko)
+[![GitHub Favour-Madubuko](https://img.shields.io/github/followers/Favour-Madubuko?label=follow&style=social)](https://github.com/favouralgo)
 [![Linkedin:Favour Madubuko ](https://img.shields.io/badge/Favour%20-%20Madubuko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/favour-madubuko/)](https://www.linkedin.com/in/favour-madubuko/)
 [![Twitter: Madubuko Favour](https://img.shields.io/twitter/follow/favourc_m?style=social)](https://twitter.com/favourc_m)
  
